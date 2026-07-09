@@ -1,0 +1,5 @@
+keyboard
+colorama
+rich
+scipy
+click
